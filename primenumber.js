@@ -6,7 +6,14 @@ count++
 }
 }
 
+
+
+if(count==4){
+
+
+
 if(count==2){
+
 console.log("yes it's prime")
 }
 else{
